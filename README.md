@@ -10,5 +10,3 @@ I'm a simple dev,
 🔭 I’m currently working on IT
 
 🌱 I’m currently learning Javascript and more technologys
-
-@Pionerasdev @GitHubEducation @GithubLatam #WTMDareToBe  @WomenTechmakers
