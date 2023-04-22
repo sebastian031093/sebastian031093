@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-I'm a simple dev, 
+I'm a simple dev, and enjoy to be a curios 🧬🦚🤖
 
 🔭 I’m currently working on IT
 
