@@ -23,7 +23,7 @@ Building interactive, data-rich web apps with a love for geospatial tech and per
 Supercharged visuals with Deck.gl (WebGL):
 ## ✨ Custom icons & dynamic tooltips for location-based actions.
 ## 🌱 Hexagon heatmaps for data density (because dots are so last decade).
-##⚡ Performance Ninja: Processed 10K+ geo-datasets offline using Web Workers (bye-bye UI freezes!). Optimized tile loading with dynamic bounding strategies (lazy maps = happy users). Memoized all the things (React.memo, useMemo) to keep complex layers smooth.
+## ⚡ Performance Ninja: Processed 10K+ geo-datasets offline using Web Workers (bye-bye UI freezes!). Optimized tile loading with dynamic bounding strategies (lazy maps = happy users). Memoized all the things (React.memo, useMemo) to keep complex layers smooth.
 
 ## 🌍 Real-Time Magic: Integrated WebSockets for live device tracking (sensors, vehicles, you name it). Added 3D terrain layers (elevation, slopes—because flat maps are boring).
 ## 🤝 Team Player Moves: Collaborated on UX prototypes (polygon selections, dynamic filters). Championed clean geo-library practices (RIP memory leaks, hello event listener cleanup).
