@@ -5,7 +5,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Node](data-canonical-src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
+![Node](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
 ![VScode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 <!--
 **sebastian031093/sebastian031093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
